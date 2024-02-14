@@ -16,7 +16,7 @@
 
 ### Current Status Quo:
 
-- 💼 Software Engineer
+- 💼 2nd Year Student at National University Fairview 
 - 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Web Development</strong>, <strong>Cyber Security</strong>, and <strong>NFT Projects</strong>.
 
