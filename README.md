@@ -1,7 +1,7 @@
 [![](https://www.facebook.com/newonefile)
 ------------------------------------------- 
 ### Socials: 
-<a href="https://m.youtube.com/DefinitelyNotIan"><img src="https://img.shields.io/badge/carlcastanas-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="[https://m.youtube.com/DefinitelyNotIan](https://www.youtube.com/channel/UCF0ODqrzrPfMxNIrTo0fuXQ)"><img src="https://img.shields.io/badge/carlcastanas-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 ### How to reach me: 
 <a href="mailto: cacastanas@gmail.com">
